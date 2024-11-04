@@ -1,0 +1,10 @@
+on: [push]
+jobs:
+   display_files:
+      name: run a simple command
+      runs-on: ubento-lareste
+      steps:
+          - name: display output
+            run: 
+                echo "Hello World"
+            shell: bash
