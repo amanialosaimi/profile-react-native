@@ -22,7 +22,7 @@ export default function App() {
 
 <br></br>
           <Text style={{ maxWidth: 300 }}>
-          A Senior Back-end developer & Software Engineer who translates prototypes to creative websites and software solutions.
+          Senior Back-end developer & Software Engineer who translates prototypes to creative websites and software solutions.
           </Text>
         </View>
       </View>
